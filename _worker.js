@@ -287,7 +287,7 @@ function homePageHTML() {
         <div>
             <h2>Navigation</h2>
             <a href="https://wa.me/+6285162223311" target="_blank"><i class="fas fa-info-circle"></i> Order Akun </a>
-            <a href="https://t.me/edtunrev" target="_blank"><i class="fab fa-telegram"></i> Telegram Group</a>
+            <a href="https://t.me/hermananza" target="_blank"><i class="fab fa-telegram"></i> Telegram</a>
         </div>
         <div>
             <a href="https://github.com/EDtunnel-rev/EDtunnel-rev" target="_blank"><i class="fab fa-github"></i> GitHub Repository</a>
